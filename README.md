@@ -14,7 +14,7 @@ My core technologies: Solidity, TypeScript, Hardhat, ethers.js, OpenZeppelin. I 
 
   💡Technologies: Solidity, React.js, Hardhat, Ethers.js, ERC-20, Uniswap V2, Pancakeswap
 
-- ⛓️ [Cross-Chain Solutions](https://github.com/samokander/xNFT): Designed and implemented cross-chain technologies during hackathons, focusing on seamless interoperability between networks.
+- ⛓️ [Cross-Chain Solutions](https://github.com/samokander/xNFT): Designed and implemented cross-chain technologies during hackathon, focusing on seamless interoperability between networks.
 
   💡Technologies: Solidity, Node.js, Hardhat, zkEVM, ERC-721
 
